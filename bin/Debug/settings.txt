@@ -1,0 +1,7 @@
+# Process Sanitizer settings
+interval=3000
+autorefresh=False
+tray=True
+notify=True
+maximized=False
+bounds=462,166,1067,783

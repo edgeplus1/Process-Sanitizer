@@ -1,0 +1,16 @@
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\bin\Debug\Process_Sanitizer.exe.config
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\bin\Debug\Process_Sanitizer.exe
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\bin\Debug\Process_Sanitizer.pdb
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.csproj.AssemblyReference.cache
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.Properties.Resources.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.csproj.GenerateResource.cache
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.csproj.CoreCompileInputs.cache
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.exe
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.pdb
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.AboutForm.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.UpdateForm.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.HashDatabaseForm.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.InputDialog.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.PersistenceForm.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.ThreatDbForm.resources
+C:\Users\ramza\source\repos\Process_Sanitizer\Process_Sanitizer\obj\Debug\Process_Sanitizer.UI.QuarantineForm.resources
