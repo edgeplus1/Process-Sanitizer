@@ -79,7 +79,7 @@
 
 ### Главный интерфейс
 
-![Главный интерфейс и график нагрузки](<img width="1053" height="776" alt="image" src="https://github.com/user-attachments/assets/6b5bcd50-b810-446e-8817-0c8d471edc59" />)
+<img width="1053" height="776" alt="image" src="https://github.com/user-attachments/assets/6b5bcd50-b810-446e-8817-0c8d471edc59" />
 *Главное окно приложения с таблицей процессов, журналом событий и живым графиком системной нагрузки.*
 
 ### Управление карантином и базой хешей
