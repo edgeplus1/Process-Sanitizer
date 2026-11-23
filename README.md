@@ -3,6 +3,7 @@
 <img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/63368732-0aea-4f04-8da8-d2f36dc7ff3e" />
 
 **Process Sanitizer** — это портативный эвристический детектор подозрительных процессов, майнеров и вредоносного программного обеспечения для операционных систем семейства Windows. Приложение анализирует поведение процессов, проверяет цифровые подписи, сверяет хеши с локальной базой и сканирует механизмы автозагрузки, не требуя установки и не оставляя следов в реестре системы.
+<a href="https://store.edgeplus.ru/app-detail.php?id=6"><img width="116" height="41" alt="image" src="https://github.com/user-attachments/assets/ddccd8dc-822b-47d9-b2df-be9666735fa4" /></a>
 
 ## Quick Start (Быстрый старт)
 
@@ -183,9 +184,9 @@ Contributing (Вклад)
 
 Ссылки
 Репозиторий: https://github.com/edgeplus1/Process-Sanitizer
+
 Релизы (скачать): https://github.com/edgeplus1/Process-Sanitizer/releases
+
 Issues (баги и фичи): https://github.com/edgeplus1/Process-Sanitizer/issues
 
 Copyright (c) 2026 edgeplus1. Распространяется как есть (AS IS). License: MIT
-
-<a href="https://store.edgeplus.ru/app-detail.php?id=6"><img width="116" height="41" alt="image" src="https://github.com/user-attachments/assets/ddccd8dc-822b-47d9-b2df-be9666735fa4" /></a>
